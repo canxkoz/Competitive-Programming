@@ -1,6 +1,8 @@
 # Competitive-Programming
 Includes solutions to some computer science problems of my choice.
 ## CodeForces
+**S.No.**  | **Problem Name**
+---|:---:
 1|[(1-A) Theatre-Square.cpp](http://codeforces.com/problemset/problem/1/A)
 2|[(4-A) Watermelon.cpp](http://codeforces.com/problemset/problem/4/A)
 3|[(4-C) Registration-System.cpp](https://codeforces.com/problemset/problem/4/C)
