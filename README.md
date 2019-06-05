@@ -15,3 +15,7 @@ Includes solutions to some computer science problems of my choice.
 10|[(69-A) Young-Physicist.cpp](https://codeforces.com/problemset/problem/69/A)
 11|[(71-A) Way-Too-Long-Words.cpp](https://codeforces.com/problemset/problem/71/A)
 12|[(96-A) Football.cpp](https://codeforces.com/problemset/problem/96/A)
+13|[(110-A) Nearly-Lucky-Number.cpp](https://codeforces.com/problemset/problem/110/A)
+14|[(112-A) Petya-and-Strings.cpp](https://codeforces.com/problemset/problem/112/A)
+15|[(116-A) Tram.cpp](https://codeforces.com/problemset/problem/116/A)
+16|[(118-A) String-Task.cpp](https://codeforces.com/problemset/problem/118/A)
