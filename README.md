@@ -19,3 +19,7 @@ Includes solutions to some computer science problems of my choice.
 14|[(112-A) Petya-and-Strings.cpp](https://codeforces.com/problemset/problem/112/A)
 15|[(116-A) Tram.cpp](https://codeforces.com/problemset/problem/116/A)
 16|[(118-A) String-Task.cpp](https://codeforces.com/problemset/problem/118/A)
+17|[(122-A) Lucky-Division.cpp](https://codeforces.com/problemset/problem/122/A)
+18|[(131-A) cAPS-lOCK.cpp](https://codeforces.com/problemset/problem/131/A)
+19|[(148-A) Insomnia-cure.cpp](https://codeforces.com/problemset/problem/148/A)
+20|[(151-A) Soft-Drinking](https://codeforces.com/problemset/problem/151/A)
