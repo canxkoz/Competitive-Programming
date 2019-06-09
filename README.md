@@ -29,3 +29,7 @@ Includes solutions to some computer science problems of my choice.
 24|[(141-A) Amusing-Joke.cpp](https://codeforces.com/problemset/problem/141/A)
 25|[(144-A) Arrival-of-the-General](https://codeforces.com/problemset/problem/144/A)
 26|[(155-A) I-love-%username%.cpp](https://codeforces.com/problemset/problem/155/A)
+27|[(158-A) Next-Round.cpp](https://codeforces.com/problemset/problem/158/A)
+28|[(158-B) Taxi.cpp](https://codeforces.com/problemset/problem/158/B)
+29|[(160-A) Twins.cpp](https://codeforces.com/problemset/problem/160/A)
+30|[(189-A) Cut-Ribbon.cpp](https://codeforces.com/problemset/problem/189/A)
