@@ -1,8 +1,8 @@
 # Competitive-Programming
 Includes solutions to some computer science problems of my choice.
 ## CodeForces
-**S.No.**  | **Problem Name**
----|:---:
+**S.No.**  | **Problem Name** | **Solution Link**
+---|:---:|:---:
 1|[(1-A) Theatre-Square.cpp](http://codeforces.com/problemset/problem/1/A)
 2|[(4-A) Watermelon.cpp](http://codeforces.com/problemset/problem/4/A)
 3|[(4-C) Registration-System.cpp](https://codeforces.com/problemset/problem/4/C)
@@ -41,3 +41,11 @@ Includes solutions to some computer science problems of my choice.
 36|[(263-A) Beautiful-Matrix.cpp](https://codeforces.com/problemset/problem/263/A)
 37|[(266-A) Stones-on-the-Table.cpp](https://codeforces.com/problemset/problem/266/A)
 38|[(266-B) Queue-at-the-School.cpp](https://codeforces.com/problemset/problem/266/B)
+39|[(271-A) Beautiful-Year.cpp](https://codeforces.com/problemset/problem/271/A)
+40|[(276-A) Lunch-Rush.cpp](https://codeforces.com/problemset/problem/276/A)
+41|[(281-A)  Word-Capitalization.cpp](https://codeforces.com/problemset/problem/281/A)
+42|[(281-A) Bit++.cpp](https://codeforces.com/problemset/problem/282/A)
+43|[(313-A) Ilya-and-Bank-Account.cpp](https://codeforces.com/problemset/problem/313/A)
+44|[(318-A) Even-Odds.cpp](https://codeforces.com/problemset/problem/318/A)
+45|[(320-A) Magic-Numbers.cpp](https://codeforces.com/problemset/problem/320/A)
+46|[(327-A) Flipping-Game.cpp](https://codeforces.com/problemset/problem/327/A)
