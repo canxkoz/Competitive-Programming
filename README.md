@@ -72,4 +72,15 @@ Includes my solutions to some computer science problems from [CodeForces](http:/
 67|[(710-B) Optimal-Point-on-a-Line.cpp](https://codeforces.com/problemset/problem/710/B)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/Code%20Forces/710-B/710B%20Optimal-Point-on-a-Line.cpp)
 68|[(780-B) Andryusha-and-Socks.cpp](https://codeforces.com/problemset/problem/780/A)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/Code%20Forces/780-A/780A%20Andryusha-and-Socks.cpp)
 69|[(784-A) Numbers-Joke.cpp](https://codeforces.com/contest/784/problem/A)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/Code%20Forces/784-A/784A%20Numbers-Joke.cpp)
-70|
+70|[(884-A) Book-Reading.cpp](https://codeforces.com/problemset/problem/884/A)|[solution]()
+71|[(884-B) Japanese-Crosswords-Strike-Back.cpp](https://codeforces.com/problemset/problem/884/B)|[solution]()
+72|[(893-A) Chess-For-Three.cpp](https://codeforces.com/problemset/problem/893/A)|[solution]()
+73|[(893-B) Beautiful-Divisors.cpp](https://codeforces.com/problemset/problem/893/B)|[solution]()
+74|[(894-A) QAQ.cpp](https://codeforces.com/problemset/problem/894/A)|[solution]()
+75|[(922-A) Cloning-Toys.cpp](https://codeforces.com/problemset/problem/922/A)|[solution]()
+76|[(922-B) Magic-Forest.cpp](https://codeforces.com/problemset/problem/922/B)|[solution]()
+77|[(938-A) Word-Correction.cpp](https://codeforces.com/problemset/problem/938/A)|[solution]()
+78|[(938-B) Run-For-Your-Prize.cpp](https://codeforces.com/problemset/problem/938/B)|[solution]()
+79|[(939-A) Love-Triangle.cpp](https://codeforces.com/problemset/problem/939/A)|[solution]()
+80|[(939-B) Hamster-Farm.cpp](https://codeforces.com/problemset/problem/939/B)|[solution]()
+
