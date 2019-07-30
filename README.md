@@ -104,5 +104,5 @@ Includes my solutions to some computer science problems from [CodeForces](http:/
 99|[(919-B)Perfect Number.cpp](https://codeforces.com/problemset/problem/919/B)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/Code%20Forces/919-B/919B%20Perfect%20Number.cpp)
 100|[(919-C)Seat Arrangements.cpp](https://codeforces.com/problemset/problem/919/C)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/Code%20Forces/919-C/919C%20Seat%20Arrangements.cpp)
 101|[(920-A)Water The Garden.cpp](https://codeforces.com/problemset/problem/920/A)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/Code%20Forces/920-A/920A%20Water%20The%20Garden.cpp)
-102|[(920-B)Tea Queue.cpp](https://codeforces.com/problemset/problem/920/B)|[solution]()
-103|[(920-C)Swap Adjacent Elements.cpp](https://codeforces.com/problemset/problem/920/C)|[solution]()
+102|[(920-B)Tea Queue.cpp](https://codeforces.com/problemset/problem/920/B)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/Code%20Forces/920-B/920B%20Tea%20Queue.cpp)
+103|[(920-C)Swap Adjacent Elements.cpp](https://codeforces.com/problemset/problem/920/C)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/Code%20Forces/920-C/920C%20Swap%20Adjacent%20Elements.cpp)
