@@ -108,7 +108,8 @@ Includes my solutions to some computer science problems from [CodeForces](http:/
 103|[(920-C)Swap Adjacent Elements.cpp](https://codeforces.com/problemset/problem/920/C)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/Code%20Forces/920-C/920C%20Swap%20Adjacent%20Elements.cpp)
 
 ## [LeetCode](https://leetcode.com/)
-**S.No.**  | **Problem Name** | **Solution Link**
+The first 30 questions listed on this table are the questions that came up on LeetCode April Challenge 2020.
+**Days**  | **Problem Name** | **Solution Link**
 ---|:---:|:---:
 Day 1|[Single-Numbers.py](https://leetcode.com/problems/single-number/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Single-Numbers.py)
 Day 2|[Happy-Number.py](https://leetcode.com/problems/happy-number/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Happy-Number.py)
