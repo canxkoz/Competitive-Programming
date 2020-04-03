@@ -36,7 +36,7 @@ class Solution(object):
         return False
 
 
-#More optimal solution
+#More optimal solutions
 #Solution #1
 # class Solution(object):
     # def isHappy(self, n):
