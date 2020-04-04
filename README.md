@@ -113,3 +113,4 @@ The first 30 questions listed on this table are the questions that came up on Le
 ---|:---:|:---:
 Day 1|[Single-Numbers.py](https://leetcode.com/problems/single-number/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Single-Numbers.py)
 Day 2|[Happy-Number.py](https://leetcode.com/problems/happy-number/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Happy-Number.py)
+Day 3|[Maximum-Subarray.py](https://leetcode.com/problems/maximum-subarray/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Maximum-Subarray.py)
