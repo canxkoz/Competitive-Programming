@@ -26,6 +26,22 @@ class Solution(object):
 # This is my approach. It took me about 16 seconds to come up with this solution,
 # The issue is, it is inefficient.
 
+# My second attempt after realizing that the previous setup is inefficient.
+# Took me about 5 minutes on Python Tutor.
+#    def moveZeroes(self, nums):
+#        """
+#        :type nums: List[int]
+#        :rtype: None Do not return anything, modify nums in-place instead.
+#        """
+#        tail = 0
+#        for i in range(0, len(nums)):
+#            if nums[i] !=0:
+#                nums[tail] = nums[i]
+#                tail+=1
+#        
+#        for i in range(tail, len(nums), 1):
+#            nums[i]=0
+
 #More optimal Solutions
 # Solution 1
 # class Solution(object):
@@ -76,3 +92,5 @@ class Solution(object):
 #             if nums[i] !=0:
 #                 nums[tail],nums[i] = nums[i],nums[tail]
 #                 tail += 1
+
+
