@@ -117,4 +117,6 @@ Day 3|[Maximum-Subarray.py](https://leetcode.com/problems/maximum-subarray/)|[so
 Day 4|[Move-Zeroes.py](https://leetcode.com/problems/move-zeroes/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Move-Zeroes.py)
 Day 5|[Best-Time-to-Buy-and-Sell-Stock-II.py](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Best-Time-to-Buy-and-Sell-Stock-II.py)
 Day 6|[Group-Anagrams.py](https://leetcode.com/problems/group-anagrams/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Group-Anagrams.py)
+Day 7|[Counting-Elements.py](https://leetcode.com/problems/counting-elements/)|[solution]https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Counting-Elements.py)
+
 
