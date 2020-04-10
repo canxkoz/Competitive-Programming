@@ -58,7 +58,9 @@ class MinStack:
 # param_4 = obj.getMin()
         
 #More Optimal Solutions
+
 # Solution 1 
+
 # class MinStack(object):
 
 #     def __init__(self):
