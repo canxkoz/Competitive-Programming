@@ -120,3 +120,4 @@ Day 6|[Group-Anagrams.py](https://leetcode.com/problems/group-anagrams/)|[soluti
 Day 7|[Counting-Elements.py](https://leetcode.com/problems/counting-elements/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Counting-Elements.py)
 Day 8|[Middle-of-the-Linked-List.py](https://leetcode.com/problems/middle-of-the-linked-list/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Middle-of-the-Linked-List.py)
 Day 9|[Backspace-String-Compare.py](https://leetcode.com/problems/backspace-string-compare/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Backspace-String-Compare.py)
+Day 10|[Min-Stack.py](https://leetcode.com/problems/min-stack/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Min-Stackpy.py)
