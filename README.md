@@ -119,4 +119,4 @@ Day 5|[Best-Time-to-Buy-and-Sell-Stock-II.py](https://leetcode.com/problems/best
 Day 6|[Group-Anagrams.py](https://leetcode.com/problems/group-anagrams/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Group-Anagrams.py)
 Day 7|[Counting-Elements.py](https://leetcode.com/problems/counting-elements/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Counting-Elements.py)
 Day 8|[Middle-of-the-Linked-List.py](https://leetcode.com/problems/middle-of-the-linked-list/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Middle-of-the-Linked-List.py)
-
+Day 9|[Backspace-String-Compare.py](https://leetcode.com/problems/backspace-string-compare/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Backspace-String-Compare.py)
