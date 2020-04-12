@@ -121,3 +121,4 @@ Day 7|[Counting-Elements.py](https://leetcode.com/problems/counting-elements/)|[
 Day 8|[Middle-of-the-Linked-List.py](https://leetcode.com/problems/middle-of-the-linked-list/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Middle-of-the-Linked-List.py)
 Day 9|[Backspace-String-Compare.py](https://leetcode.com/problems/backspace-string-compare/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Backspace-String-Compare.py)
 Day 10|[Min-Stack.py](https://leetcode.com/problems/min-stack/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Min-Stackpy.py)
+Day 11|[Diameter-of-Binary-Tree.py](https://leetcode.com/problems/diameter-of-binary-tree/)|[solution](https://github.com/canxkoz/Competitive-Programming/blob/master/LeetCode/Diameter-of-Binary-Tree.py)
