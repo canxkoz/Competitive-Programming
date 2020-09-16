@@ -15,7 +15,7 @@ class Solution(object):
     def productExceptSelf(self, nums):
         """
         :type nums: List[int]
-        :rtype: List[int]
+        :rtype: List[int
         """
         mul = 1
         right_side_mul = []
